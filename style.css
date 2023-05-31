@@ -508,4 +508,102 @@
     width: 150px;
     height: 36px;
   }
+  .Container_3_Head {
+    margin-top: 30px;
+    font-size: 32px;
+  }
+  .block_ekaterina_content {
+    width: 460px;
+    height: 260px;
+    margin-left: 100px;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 17px;
+    margin-top: 20px;
+  }
+  .block_ekaterina_text {
+    font-size: 12px;
+    line-height: 18px;
+    padding-top: 20px;
+    padding-left: 26px;
+  }
+  .block_ekaterina_afterText {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 26px;
+  }
+  .block_ekaterina_img {
+    width: 110.04px;
+    height: 97.88px;
+  }
+  .block_ekaterina_h3 {
+    padding-top: 10px;
+    font-size: 17px;
+  }
+  .Container_3 {
+    height: 550px;
+    width: 100%;
+    margin-top: 55px;
+  }
+  .Container_4 {
+    height: 550px;
+  }
+  .Container_4_head {
+    font-size: 30px;
+    margin-top: 0;
+  }
+  .Container_4_content {
+    margin-left: 70px;
+    padding-top: 100px;
+  }
+  .Container_4_3900RUB {
+    font-size: 50px;
+  }
+  .Container_4_textPrice {
+    margin-top: 30px;
+  }
+  .Container_4_lastBlock_head {
+    font-size: 16px;
+  }
+  .Container_4_lastBlock_text {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  .Container_4_lastBlock {
+    margin-top: 50px;
+  }
+  .Container_footer {
+    height: 250px;
+  }
+  .Sinxro {
+    margin-left: 70px;
+    padding-top: 28px;
+  }
+  .Photo_footer_Sinxrozasiya {
+    width: 66.6px;
+    height: 39.38px;
+  }
+  .contact-info {
+    font-size: 14px;
+    margin-right: 150px;
+  }
+  .phone_white_png {
+    width: 15px;
+    height: 13px;
+    margin-top: 8px;
+  }
+  .Socialnetwork_Icon {
+    width: 120px;
+    margin-left: 70px;
+    margin-top: 25px;
+  }
+  .Socialnetwork_Icon_item {
+    width: 20px;
+    height: 20px;
+  }
+  .Container_footer_Copyright {
+    font-size: 12px;
+    margin-left: 70px;
+    margin-top: 80px;
+  }
 }
